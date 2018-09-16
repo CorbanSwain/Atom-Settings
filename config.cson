@@ -1,0 +1,12 @@
+"*":
+  "atomic-emacs":
+    yankFromClipboard: true
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontFamily: "Triplicate T4c, Menlo, Consolas, DejaVu Sans Mono, monospace"
+    invisibles: {}
+  "exception-reporting":
+    userId: "e00d994c-1bbb-4e75-a456-538a080c2704"
+  "markdown-pdf":
+    format: "Letter"
